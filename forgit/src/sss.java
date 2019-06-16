@@ -5,4 +5,7 @@ public class sss {
     public  void sau() {
         System.out.println("dflkalk");
     }
+    public  void  zaiyici() {
+        System.out.println("jdkfsfsad");
+    }
 }
